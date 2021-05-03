@@ -1,0 +1,9 @@
+body {
+    cursor: url(https://cdn.jsdelivr.net/gh/wmz1024/static1/d.cur),
+        default;
+}
+a,
+img {
+    cursor: url(https://cdn.jsdelivr.net/gh/wmz1024/static1/i.cur),
+        default;
+}
